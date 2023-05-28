@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace API.Errors
 {
     // A class called ApiException that does not inherit, has a constructor and the three following properties: StatusCode, Message and Details
